@@ -1,1 +1,1 @@
-# modeling-epidemics-ws
+# modeling-epidemics
